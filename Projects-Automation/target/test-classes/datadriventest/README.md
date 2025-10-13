@@ -36,9 +36,10 @@ It reads multiple input scenarios from Excel (`DDT1file.xlsx`) and validates the
 
 
 ## How to Run
-1. Clone the repo:
+1.Clone the repo:
 	```bash
 	git clone https://github.com/Harsha-vardhan-7/Automation-projects-portifolio.git
+	
 2.Open project in IDE (STS/Eclipse/IntelliJ).
 
 3.Ensure "DDT1file.xlsx" is in "src/test/resources".
