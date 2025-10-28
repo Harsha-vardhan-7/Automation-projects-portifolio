@@ -1,16 +1,17 @@
 package testCases;
 
-import org.testng.Assert;
+import org.testng.AssertJUnit;
 import org.testng.annotations.Test;
 
 import pageObjects.AccountRegisterationPage;
 import pageObjects.HomePage;
+import testBase.TestBaseClass;
 
 public class TC001_AccountRegistrationTest extends TestBaseClass{
 		
 		
 		@Test
-		public void validation() {
+		public void verify_AccountRegistration() {
 			try {
 			logger.info("**** Starting of TC001_AccountRegistrationTest ****");
 			
@@ -40,17 +41,17 @@ public class TC001_AccountRegistrationTest extends TestBaseClass{
 				String confirmmsg=regpage.getConfirmationMsg();
 				
 				if (confirmmsg.equals("Your Account Has Been Created!")) {
-					Assert.assertTrue(true);
+					AssertJUnit.assertTrue(true);
 				}
 				else {
 					logger.error("Test failed..");
-					Assert.assertTrue(false);
+					AssertJUnit.assertTrue(false);
 				}
 						//Assert.assertEquals(confirmmsg, "Your Account Has Been Created!");
 			}	//try
 			
 			catch(Exception e) {
-				Assert.fail();
+				AssertJUnit.fail();
 			}
 			
 			logger.info("**** Finished the TC001_AccountRegistrationTest");
