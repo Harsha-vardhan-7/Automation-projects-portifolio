@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-10-28T14:51:11 IST" name="Default suite" finished-at="2025-10-28T14:51:24 IST" duration-ms="12646">
+  <suite started-at="2025-10-28T21:27:23 IST" name="Default suite" finished-at="2025-10-28T21:27:30 IST" duration-ms="7513">
     <groups>
     </groups>
-    <test started-at="2025-10-28T14:51:11 IST" name="Default test" finished-at="2025-10-28T14:51:24 IST" duration-ms="12646">
-      <class name="testCases.TC001_AccountRegistrationTes">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TC001_AccountRegistrationTes@a4add54]" started-at="2025-10-28T14:51:11 IST" name="setUp" finished-at="2025-10-28T14:51:22 IST" duration-ms="11023" status="PASS">
+    <test started-at="2025-10-28T21:27:23 IST" name="Default test" finished-at="2025-10-28T21:27:30 IST" duration-ms="7513">
+      <class name="testCases.TC001_AccountRegistrationTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TC001_AccountRegistrationTest@6cce16f4]" started-at="2025-10-28T21:27:23 IST" name="setUp" finished-at="2025-10-28T21:27:28 IST" duration-ms="5247" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="validation()[pri:0, instance:testCases.TC001_AccountRegistrationTes@a4add54]" started-at="2025-10-28T14:51:22 IST" name="validation" finished-at="2025-10-28T14:51:24 IST" duration-ms="1516" status="PASS">
+        <test-method signature="validation()[pri:0, instance:testCases.TC001_AccountRegistrationTest@6cce16f4]" started-at="2025-10-28T21:27:28 IST" name="validation" finished-at="2025-10-28T21:27:30 IST" duration-ms="2160" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_AccountRegistrationTes@a4add54]" started-at="2025-10-28T14:51:24 IST" name="tearDown" finished-at="2025-10-28T14:51:24 IST" duration-ms="86" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_AccountRegistrationTest@6cce16f4]" started-at="2025-10-28T21:27:30 IST" name="tearDown" finished-at="2025-10-28T21:27:30 IST" duration-ms="91" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC001_AccountRegistrationTes -->
+      </class> <!-- testCases.TC001_AccountRegistrationTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
