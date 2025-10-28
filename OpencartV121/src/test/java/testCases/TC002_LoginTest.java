@@ -34,6 +34,7 @@ public class TC002_LoginTest extends TestBaseClass{
 				Assert.fail();
 			}
 			
+			logger.info("**** Finished TC002_LoginTest ****");
 		}
 		
 }

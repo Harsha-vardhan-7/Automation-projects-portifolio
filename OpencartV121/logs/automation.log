@@ -260,3 +260,8 @@
   /Users/Harsha/Documents/GitHub/Automation-projects-portifolio/OpencartV121/Master.xml
 
 2025-10-29 00:39:22,151 - **** Started TC002_LoginTest ****
+2025-10-29 00:41:20,881 - [TestNG] Running:
+  /Users/Harsha/Documents/GitHub/Automation-projects-portifolio/OpencartV121/Master.xml
+
+2025-10-29 00:41:24,446 - **** Started TC002_LoginTest ****
+2025-10-29 00:41:26,141 - **** Finished TC002_LoginTest ****
