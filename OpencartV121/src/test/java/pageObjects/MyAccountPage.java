@@ -13,14 +13,21 @@ public class MyAccountPage extends BasePage{
 		
 	//Locators
 		@FindBy(xpath="//h2[normalize-space()='My Account']") WebElement msgMyAccount;
+		@FindBy(xpath="//a[@class='list-group-item'][normalize-space()='Logout']") WebElement lnkLogout;
 		
 	//Action method
-		public boolean isMyAccountPageExists() {
+		public boolean isMyAccountPageExists() {			//My account
 			try {
 				return msgMyAccount.isDisplayed();				//if it returns true, try method will be executed, and if it returns false we will get exception and catch method will be executed and then it will return false, with this, we will capture this boolean value and in test method we will validate 
 			} catch (Exception e) {
 				return false;
 			}
 		}
+		
+		public void ClickLogout() {
+			lnkLogout.click();
+		}
+		
+		
 
 }
