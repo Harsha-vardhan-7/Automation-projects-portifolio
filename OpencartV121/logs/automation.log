@@ -569,3 +569,136 @@ java.lang.NullPointerException: Cannot invoke "pageObjects.HomePage.ClickMyaccou
 	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+2025-10-29 23:46:28,037 - [TestNG] Running:
+  /Users/Harsha/Documents/GitHub/Automation-projects-portifolio/OpencartV121/grouping.xml
+
+2025-10-29 23:46:34,939 - **** Starting of TC001_AccountRegistrationTest ****
+2025-10-29 23:46:34,989 - **** Clicked on MyAccount ****
+2025-10-29 23:46:35,377 - **** Clicked on Register ****
+2025-10-29 23:46:35,379 - **** Providing the customer details ****
+2025-10-29 23:46:36,835 - **** Finished the TC001_AccountRegistrationTest
+2025-10-29 23:46:39,460 - **** Started TC002_LoginTest ****
+2025-10-29 23:46:40,902 - **** Finished TC002_LoginTest ****
+2025-10-29 23:46:43,713 - **** Started TC003_LoginDDT ****
+2025-10-29 23:46:44,983 - **** Validation started for exp value ****
+2025-10-29 23:46:45,392 - **** Finished TC003_LoginDDT ****
+2025-10-29 23:46:45,394 - **** Started TC003_LoginDDT ****
+2025-10-29 23:46:55,795 - **** Validation started for exp value ****
+2025-10-29 23:46:55,796 - **** Finished TC003_LoginDDT ****
+2025-10-29 23:46:55,798 - **** Started TC003_LoginDDT ****
+2025-10-29 23:47:06,343 - **** Validation started for exp value ****
+2025-10-29 23:47:06,345 - **** Finished TC003_LoginDDT ****
+2025-10-29 23:47:06,347 - **** Started TC003_LoginDDT ****
+2025-10-29 23:47:17,750 - **** Validation started for exp value ****
+2025-10-29 23:47:17,752 - **** Finished TC003_LoginDDT ****
+2025-10-29 23:47:17,755 - **** Started TC003_LoginDDT ****
+2025-10-29 23:47:18,895 - **** Validation started for exp value ****
+2025-10-29 23:47:19,247 - **** Finished TC003_LoginDDT ****
+2025-10-29 23:48:26,607 - [TestNG] Running:
+  /Users/Harsha/Documents/GitHub/Automation-projects-portifolio/OpencartV121/grouping.xml
+
+2025-10-29 23:48:35,281 - [TestNG] Running:
+  /Users/Harsha/Documents/GitHub/Automation-projects-portifolio/OpencartV121/grouping.xml
+
+2025-10-29 23:48:38,602 - **** Starting of TC001_AccountRegistrationTest ****
+2025-10-29 23:48:38,642 - **** Clicked on MyAccount ****
+2025-10-29 23:48:39,025 - **** Clicked on Register ****
+2025-10-29 23:48:39,026 - **** Providing the customer details ****
+2025-10-29 23:48:40,482 - **** Finished the TC001_AccountRegistrationTest
+2025-10-29 23:48:42,958 - **** Started TC002_LoginTest ****
+2025-10-29 23:48:44,384 - **** Finished TC002_LoginTest ****
+2025-10-30 21:35:54,939 - [TestNG] Running:
+  /Users/Harsha/Documents/GitHub/Automation-projects-portifolio/OpencartV121/Master.xml
+
+2025-10-30 21:36:08,668 - **** Starting of TC001_AccountRegistrationTest ****
+2025-10-30 21:36:08,717 - **** Clicked on MyAccount ****
+2025-10-30 21:36:09,344 - **** Clicked on Register ****
+2025-10-30 21:36:09,345 - **** Providing the customer details ****
+2025-10-30 21:36:10,924 - **** Finished the TC001_AccountRegistrationTest
+2025-10-30 21:36:14,824 - **** Started TC002_LoginTest ****
+2025-10-30 21:36:15,956 - **** Finished TC002_LoginTest ****
+2025-10-30 21:38:20,258 - [TestNG] Running:
+  /Users/Harsha/Documents/GitHub/Automation-projects-portifolio/OpencartV121/crossbrowsertesting.xml
+
+2025-10-30 21:38:24,337 - **** Starting of TC001_AccountRegistrationTest ****
+2025-10-30 21:38:24,447 - **** Clicked on MyAccount ****
+2025-10-30 21:38:25,003 - **** Clicked on Register ****
+2025-10-30 21:38:25,003 - **** Providing the customer details ****
+2025-10-30 21:38:36,601 - **** Starting of TC001_AccountRegistrationTest ****
+2025-10-30 21:38:36,804 - **** Clicked on MyAccount ****
+2025-10-30 21:39:35,626 - [TestNG] Running:
+  /Users/Harsha/Documents/GitHub/Automation-projects-portifolio/OpencartV121/crossbrowsertesting.xml
+
+2025-10-30 21:39:44,444 - **** Starting of TC001_AccountRegistrationTest ****
+2025-10-30 21:39:44,444 - **** Starting of TC001_AccountRegistrationTest ****
+2025-10-30 21:39:44,490 - **** Clicked on MyAccount ****
+2025-10-30 21:39:44,514 - **** Clicked on MyAccount ****
+2025-10-30 21:40:04,110 - **** Clicked on Register ****
+2025-10-30 21:40:04,114 - **** Providing the customer details ****
+2025-10-30 21:42:11,809 - [TestNG] Running:
+  /Users/Harsha/Documents/GitHub/Automation-projects-portifolio/OpencartV121/crossbrowsertesting.xml
+
+2025-10-30 21:42:19,877 - **** Starting of TC001_AccountRegistrationTest ****
+2025-10-30 21:42:19,877 - **** Starting of TC001_AccountRegistrationTest ****
+2025-10-30 21:42:19,929 - **** Clicked on MyAccount ****
+2025-10-30 21:42:19,947 - **** Clicked on MyAccount ****
+2025-10-30 21:42:43,965 - **** Started TC002_LoginTest ****
+2025-10-30 21:42:43,965 - **** Started TC002_LoginTest ****
+2025-10-30 21:44:50,854 - [TestNG] Running:
+  /Users/Harsha/Documents/GitHub/Automation-projects-portifolio/OpencartV121/Master.xml
+
+2025-10-30 21:44:55,274 - **** Starting of TC001_AccountRegistrationTest ****
+2025-10-30 21:44:55,327 - **** Clicked on MyAccount ****
+2025-10-30 21:44:56,157 - **** Clicked on Register ****
+2025-10-30 21:44:56,158 - **** Providing the customer details ****
+2025-10-30 21:44:57,246 - **** Finished the TC001_AccountRegistrationTest
+2025-10-30 21:45:00,484 - **** Started TC002_LoginTest ****
+2025-10-30 21:45:02,204 - **** Finished TC002_LoginTest ****
+2025-10-30 21:45:16,824 - [TestNG] Running:
+  /Users/Harsha/Documents/GitHub/Automation-projects-portifolio/OpencartV121/grouping.xml
+
+2025-10-30 21:45:24,782 - **** Starting of TC001_AccountRegistrationTest ****
+2025-10-30 21:45:24,838 - **** Clicked on MyAccount ****
+2025-10-30 21:45:26,242 - **** Clicked on Register ****
+2025-10-30 21:45:26,244 - **** Providing the customer details ****
+2025-10-30 21:45:27,404 - **** Finished the TC001_AccountRegistrationTest
+2025-10-30 21:45:32,334 - **** Started TC002_LoginTest ****
+2025-10-30 21:45:34,028 - **** Finished TC002_LoginTest ****
+2025-10-30 21:48:04,559 - [TestNG] Running:
+  /Users/Harsha/Documents/GitHub/Automation-projects-portifolio/OpencartV121/Master.xml
+
+2025-10-30 21:48:10,355 - **** Starting of TC001_AccountRegistrationTest ****
+2025-10-30 21:48:10,400 - **** Clicked on MyAccount ****
+2025-10-30 21:48:11,261 - **** Clicked on Register ****
+2025-10-30 21:48:11,262 - **** Providing the customer details ****
+2025-10-30 21:48:12,287 - **** Finished the TC001_AccountRegistrationTest
+2025-10-30 21:48:17,182 - **** Started TC002_LoginTest ****
+2025-10-30 21:48:19,707 - **** Finished TC002_LoginTest ****
+2025-10-30 21:58:30,685 - [TestNG] Running:
+  /Users/Harsha/Documents/GitHub/Automation-projects-portifolio/OpencartV121/crossbrowsertesting.xml
+
+2025-10-30 21:58:36,810 - **** Starting of TC001_AccountRegistrationTest ****
+2025-10-30 21:58:43,547 - **** Starting of TC001_AccountRegistrationTest ****
+2025-10-30 21:58:43,599 - **** Clicked on MyAccount ****
+2025-10-30 21:58:43,624 - **** Clicked on MyAccount ****
+2025-10-30 21:59:18,667 - **** Started TC002_LoginTest ****
+2025-10-30 21:59:18,667 - **** Started TC002_LoginTest ****
+2025-10-30 22:08:07,843 - [TestNG] Running:
+  /Users/Harsha/Documents/GitHub/Automation-projects-portifolio/OpencartV121/grouping.xml
+
+2025-10-30 22:08:13,975 - **** Starting of TC001_AccountRegistrationTest ****
+2025-10-30 22:08:14,022 - **** Clicked on MyAccount ****
+2025-10-30 22:08:14,823 - **** Clicked on Register ****
+2025-10-30 22:08:14,824 - **** Providing the customer details ****
+2025-10-30 22:08:16,449 - **** Finished the TC001_AccountRegistrationTest
+2025-10-30 22:08:20,329 - **** Started TC002_LoginTest ****
+2025-10-30 22:08:21,887 - **** Finished TC002_LoginTest ****
+2025-10-30 22:16:26,148 - [TestNG] Running:
+  /Users/Harsha/Documents/GitHub/Automation-projects-portifolio/OpencartV121/Master.xml
+
+2025-10-30 22:16:30,916 - **** Starting of TC001_AccountRegistrationTest ****
+2025-10-30 22:16:30,965 - **** Clicked on MyAccount ****
+2025-10-30 22:16:31,468 - **** Clicked on Register ****
+2025-10-30 22:16:31,469 - **** Providing the customer details ****
+2025-10-30 22:16:32,546 - **** Finished the TC001_AccountRegistrationTest
+2025-10-30 22:16:35,334 - **** Started TC002_LoginTest ****

@@ -11,7 +11,7 @@ import testBase.TestBaseClass;
 
 public class TC003_LoginDDT extends TestBaseClass {
 
-	@Test(dataProvider="LoginData", dataProviderClass=DataProviders.class)					//We mentioned "dataProviderClass" because, the data provider is in different package and different class
+	@Test(dataProvider="LoginData", dataProviderClass=DataProviders.class, groups= "DataDriven")					//We mentioned "dataProviderClass" because, the data provider is in different package and different class
 	public void verify_LoginDDT(String email, String pwd, String exp) {
 
 			logger.info("**** Started TC003_LoginDDT ****");
