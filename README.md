@@ -25,7 +25,7 @@ Highlights:
 - Applied Page Object Model for modularity and reusability.
 - Organized the repo with logs, screenshots, and test results.
 
-[View Code]([url](https://github.com/Harsha-vardhan-7/Automation-projects-portifolio/tree/main/OpencartV121))
+url - https://github.com/Harsha-vardhan-7/Automation-projects-portifolio/tree/main/OpencartV121
 
 2️⃣ Deposit Calculator Automation Test
 
@@ -37,7 +37,7 @@ Highlights:
 - Integrated screenshot capture on failure and test result logging.
 - Demonstrated real-world testing of financial calculations.
 
-[🔗 View Code]([url](https://github.com/Harsha-vardhan-7/Automation-projects-portifolio/tree/main/Projects-Automation/src/test/java/datadriventest))
+url - https://github.com/Harsha-vardhan-7/Automation-projects-portifolio/tree/main/Projects-Automation/src/test/java/datadriventest
 
 
 3️⃣ Ticket Booking Automation Project
@@ -48,7 +48,7 @@ Highlights:
 - Designed and executed test cases to automate the ticket-booking process (selecting show, seats, payment, confirmation).
 - Created automation scripts using Selenium WebDriver + Java + TestNG to cover user flows.
 
-  [View Code]([url](https://github.com/Harsha-vardhan-7/Automation-projects-portifolio/tree/main/Projects-Automation/src/test/java/TicketBooking))
+url - https://github.com/Harsha-vardhan-7/Automation-projects-portifolio/tree/main/Projects-Automation/src/test/java/TicketBooking
 ---
 
 ### Contact
