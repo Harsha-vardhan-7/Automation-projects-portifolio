@@ -702,3 +702,27 @@ java.lang.NullPointerException: Cannot invoke "pageObjects.HomePage.ClickMyaccou
 2025-10-30 22:16:31,469 - **** Providing the customer details ****
 2025-10-30 22:16:32,546 - **** Finished the TC001_AccountRegistrationTest
 2025-10-30 22:16:35,334 - **** Started TC002_LoginTest ****
+2025-10-31 14:09:12,212 - [TestNG] Running:
+  /Users/Harsha/Documents/GitHub/Automation-projects-portifolio/OpencartV121/Master.xml
+
+2025-10-31 14:09:24,512 - **** Starting of TC001_AccountRegistrationTest ****
+2025-10-31 14:09:24,581 - **** Clicked on MyAccount ****
+2025-10-31 14:09:25,132 - **** Clicked on Register ****
+2025-10-31 14:09:25,133 - **** Providing the customer details ****
+2025-10-31 14:09:26,237 - **** Finished the TC001_AccountRegistrationTest
+2025-10-31 14:09:29,204 - **** Started TC002_LoginTest ****
+2025-10-31 14:09:30,699 - **** Finished TC002_LoginTest ****
+2025-10-31 14:09:49,158 - [TestNG] Running:
+  /Users/Harsha/Documents/GitHub/Automation-projects-portifolio/OpencartV121/Master.xml
+
+2025-10-31 14:09:49,276 - **** Starting of TC001_AccountRegistrationTest ****
+2025-10-31 14:10:25,493 - [TestNG] Running:
+  /Users/Harsha/Documents/GitHub/Automation-projects-portifolio/OpencartV121/Master.xml
+
+2025-10-31 14:10:25,599 - **** Starting of TC001_AccountRegistrationTest ****
+2025-10-31 14:10:58,972 - [TestNG] Running:
+  /Users/Harsha/Documents/GitHub/Automation-projects-portifolio/OpencartV121/Master.xml
+
+2025-10-31 14:15:28,158 - [TestNG] Running:
+  /Users/Harsha/Documents/GitHub/Automation-projects-portifolio/OpencartV121/Master.xml
+

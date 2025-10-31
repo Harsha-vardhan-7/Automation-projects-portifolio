@@ -58,7 +58,7 @@ public class TestBaseClass {
 			default : System.out.println("Invalid browser"); return;
 			}
 			
-			driver= new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), capabilities);		//driver for remote driver
+			driver= new RemoteWebDriver(new URL("http://172.20.10.5:4444/wd/hub"), capabilities);		//driver for remote driver
 		}
 		
 		
