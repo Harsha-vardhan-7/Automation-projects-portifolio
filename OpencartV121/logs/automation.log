@@ -726,3 +726,6 @@ java.lang.NullPointerException: Cannot invoke "pageObjects.HomePage.ClickMyaccou
 2025-10-31 14:15:28,158 - [TestNG] Running:
   /Users/Harsha/Documents/GitHub/Automation-projects-portifolio/OpencartV121/Master.xml
 
+2025-11-01 23:22:06,095 - [TestNG] Running:
+  /Users/Harsha/Documents/GitHub/Automation-projects-portifolio/OpencartV121/docker-grid.xml
+

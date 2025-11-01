@@ -49,12 +49,14 @@ public class TestBaseClass {
 			switch(os.toLowerCase()) {
 			case "windows" : capabilities.setPlatform(Platform.WIN11); break;
 			case "mac" : capabilities.setPlatform(Platform.MAC); break;
+			case "linux" : capabilities.setPlatform(Platform.LINUX); break;
 			default : System.out.println("Invalid OS"); return;
 			}
 			
 			switch (br.toLowerCase()) {
 			case "chrome" : capabilities.setBrowserName("chrome"); break;
 			case "edge" : capabilities.setBrowserName("MicrosoftEdge"); break;
+			case "firefox" : capabilities.setBrowserName("firefox"); break;
 			default : System.out.println("Invalid browser"); return;
 			}
 			
