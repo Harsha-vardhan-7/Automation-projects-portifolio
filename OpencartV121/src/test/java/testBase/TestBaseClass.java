@@ -70,6 +70,7 @@ public class TestBaseClass {
 			case "chrome":driver= new ChromeDriver(); break;
 			case "edge":driver= new EdgeDriver(); break;
 			case "safari" : driver= new SafariDriver(); break;
+			case "firefox" : driver= new FirefoxDriver(); break;
 			default : System.out.println("Please provide the valid browser name"); return;
 			}
 		}
