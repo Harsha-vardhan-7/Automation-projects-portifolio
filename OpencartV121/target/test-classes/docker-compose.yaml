@@ -30,4 +30,3 @@ node-firefox:
 
 		
 
-#In future if we want any other browser nodes, we can just copy/paste same and change the names, but network and ports should be same.				
