@@ -36,7 +36,7 @@ public class TestBaseClass {
 	
 	@BeforeClass (groups="Master")
 	@Parameters({"os","browser"})
-	public void setUp (String os, String br) throws IOException {
+public void setUp (String os, String br) throws IOException {
 		FileInputStream file= new FileInputStream(System.getProperty("user.dir")+"/src/test/resources/config.properties");
 		prop= new Properties();
 		prop.load(file);
@@ -109,7 +109,6 @@ public class TestBaseClass {
 		return (generatedString+"@"+generatedNumber);
 	}
 	
-	
 	public String captureScreen(String tname) throws IOException {
 		String timeStamp = new SimpleDateFormat("yyyyMMddhhmmss"). format(new Date());
 		TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
@@ -119,4 +118,5 @@ public class TestBaseClass {
 		sourceFile.renameTo(targetFile);
 		return targetFilePath;
 	}
+	
 }

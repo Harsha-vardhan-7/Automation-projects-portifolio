@@ -1,5 +1,6 @@
 package testCases;
 
+import org.testng.Assert;
 import org.testng.AssertJUnit;
 import org.testng.annotations.Test;
 
@@ -41,17 +42,17 @@ public class TC001_AccountRegistrationTest extends TestBaseClass{
 				String confirmmsg=regpage.getConfirmationMsg();
 				
 				if (confirmmsg.equals("Your Account Has Been Created!")) {
-					AssertJUnit.assertTrue(true);
+					Assert.assertTrue(true);
 				}
 				else {
 					logger.error("Test failed..");
-					AssertJUnit.assertTrue(false);
+					Assert.assertTrue(false);
 				}
 						//Assert.assertEquals(confirmmsg, "Your Account Has Been Created!");
 			}	//try
 			
 			catch(Exception e) {
-				AssertJUnit.fail();
+				Assert.fail();
 			}
 			
 			logger.info("**** Finished the TC001_AccountRegistrationTest");

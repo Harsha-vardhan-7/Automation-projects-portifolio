@@ -5,6 +5,7 @@
 
 	<listeners>
 		<listener class-name="Utilities.ExtentReportManager"></listener>
+    	<listener class-name="testBase.TestListeners"/>
 	</listeners>
 	
 	 <test thread-count="5" name="Test">
